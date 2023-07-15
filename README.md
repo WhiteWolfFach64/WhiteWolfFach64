@@ -1,4 +1,4 @@
-Hello!, My name is Fernando Aguilar (aka. WhiteWolf or Fach64). Brand new to GitHub!
+Hello! My name is Fernando Aguilar (aka. WhiteWolf or Fach64). Brand new to GitHub!
 
 I'm currently working as a SOC analyst (blueteam).
 
